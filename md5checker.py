@@ -7,8 +7,8 @@ import sys
 characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!$#%\"&()=?¿¡{}[]-_+.,:;"
 length = 256
 done = False
-find = "9d5dfa1564279621e72ebb74e7fd31c1"
-find = "e305cdbb739e4eda7ee90551b3f39f63"
+find = "900150983cd24fb0d6963f7d28e17f72"
+#find = "e305cdbb739e4eda7ee90551b3f39f63"
 
 
 for i in range(length):
